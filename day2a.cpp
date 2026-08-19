@@ -15,6 +15,8 @@ int main() {
 
     cout<<"the difference is:\n"<<num1-num2<<"\n";
 
+    cout<<"the product is:\n"<<num1*num2<<"\n";
+
     return 0;
 }
 
