@@ -8,6 +8,8 @@ int main(){
     a=7;
     cout<<"The value of a is:"<<a<<endl;
 
+    //constants in c++
+
    const int b=2;
   // b=3; //this will show error because we cannot change the value of constant variable
   cout<<"The value of b is:"<<b<<endl;

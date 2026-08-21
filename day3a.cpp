@@ -59,6 +59,7 @@ int a, b, c;
     cout<<z+int(p)<<endl;
     cout<<z+(int)p<<endl;
     
+
     return 0;
 }
 
