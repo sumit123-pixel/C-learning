@@ -20,11 +20,11 @@ int main(){
 
    cout<<"\nthe value of pi is:"<<pi;
    cout<<"\nHere the value of c is:"<<c;
-   cout<<"\nHere the value of d is:"<<d;
+   cout<<"\nHere the value of d is:"<<d<<endl;
 
    bool e = true, f = false;
 
-   cout<<e<<f;
+   cout<<e<<f<<endl;
 
     return 0;
 }

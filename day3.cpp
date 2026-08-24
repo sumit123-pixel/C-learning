@@ -24,7 +24,7 @@ int main(){
     // int a=3 , b=4;
     // char c='s';
 
-    //comparison operators
+    //comparison operators ---------> for use of comnparison operator we ude brackets in cout
 
 cout<<endl<<"Following are the comparison operators:"<<endl;
     cout<<"Value of a==b is:"<<(a==b)<<endl;
@@ -36,7 +36,7 @@ cout<<endl<<"Following are the comparison operators:"<<endl;
 
     // logical operators
 
-    cout<<endl<<"value of this logical and operator is:"<<((a=b) && (a<b))<<endl;
+    cout<<endl<<"value of this logical and operator is:"<<((a==b) && (a<b))<<endl;
     cout<<"value of this logical or operator is:"<<((a==b) || (a<b))<<endl;
     cout<<"value of this logical not operator is:"<<(!(a==b))<<endl;
     
