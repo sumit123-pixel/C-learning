@@ -25,7 +25,7 @@ int main(){
    cout<<"the sum of 4 and 5 is:"<<sum(x, y)<<endl;
   // swap(x, y); //this will not swap a and b
 
-swappointer(&x, &y);
+swappointer(&x, &y); // this will swap a and p using pointer variable
    cout<<"value of x is"<<x<<"and value of y is"<<y;
 
 return 0;

@@ -12,7 +12,7 @@ int main(){
         cout<<"happy"<<endl;
         break;
     case 14:    
-        cout<<"ok"<<endl;
+        cout<<"ok "<<endl;
         break;
     
     default:

@@ -23,3 +23,6 @@ int main(){
     }
     return 0;
 }
+
+//for infinite loop in for loop the condition should always true , and if we write 13<15 in for bracket than this condition is always true
+

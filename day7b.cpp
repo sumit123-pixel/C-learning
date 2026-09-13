@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//call by reference varible 
+
 void swapreferencevar(int &a, int &b){
     int temp=a;
     a=b;

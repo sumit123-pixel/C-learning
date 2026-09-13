@@ -7,7 +7,7 @@ int main(){
     //syntax:
     //while(condition);
     //{statement}
-    int a=1;
+    int a=1;                                                        
     while(a<=15){
         cout<<a<<endl;
         a++;

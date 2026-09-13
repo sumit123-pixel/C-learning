@@ -11,7 +11,7 @@ int main(){
 
    //here we use <<a<< and <<b<< just after the the "here the value of"
    // printing the value just after them
-   // we can also write as int a=1, b=2
+   // we can also write as int a=1, b=2;
 
    float pi=3.14;
    char c='s';
