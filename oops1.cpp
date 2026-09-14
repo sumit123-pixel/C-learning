@@ -29,6 +29,10 @@ class teacher{
     //this keyword is used to refer to the current object of the class. It is used to access the members of the class. and it is used to differentiate between the member variables and the local variables with the same name.
     }
 
+    //copy constructor is a constructor that is used to create a new object as a copy of an existing object. It is used to initialize the object with the values of another object of the same class.
+teacher(teacher &t){
+    this->subject=t.subject;
+}
     //methods or member functions
     void changedepartment(string newdepartment){
         department = newdepartment;
