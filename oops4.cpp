@@ -12,13 +12,17 @@ class person{
 
     //constructor
     person(){
-       
+        cout<<"Parent class constructor called"<<endl;
     }
 };
 
 class student: public person {
     public:
     int rollno;
+
+    student() {
+        cout<<"Child class constructor called"<<endl;
+    }
 
     void info(){
         cout<<"Name:"<<name<<endl;
